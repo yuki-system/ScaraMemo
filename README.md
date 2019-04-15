@@ -1,0 +1,2 @@
+# ScaraMemo
+Scaraに関するyukiの技術的なメモと試験結果を兼ねたリポジトリ
